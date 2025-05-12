@@ -1,7 +1,16 @@
 # yoprintassessment
 
+Details
+
+Laravel = > Laravel Framework 12.13.0
+Database => Mysql
+Docker for Redis
+
+1. This is my docket desktop i open 
 ![alt text](Aspose.Words.3a7e90d0-0e0e-48fd-9c17-9073e921d194.001.png)
 
+
+2.    docker start redis
 
 ![alt text](Aspose.Words.3a7e90d0-0e0e-48fd-9c17-9073e921d194.002.png)
 
